@@ -1,0 +1,1 @@
+Dicas para construição de componentes reutilizáveis e semânticos. O isolamento de componentes repetitivos, bem como a aplicação de algumas técnicas e patterns.

@@ -1,0 +1,1 @@
+Vimos como persistir dados utilizando a biblioteca [zustand](https://zustand.docs.pmnd.rs/getting-started/introduction)

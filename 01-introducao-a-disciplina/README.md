@@ -1,0 +1,2 @@
+O professor basicamente trouxe uma recaptulação da disciplina anterior, instalação do ambiente de desenvolvimento e forneceu um material de nivelamento para os alunos.
+O link para o material de nivelamento é este: [React Native Express](https://www.reactnative.express/)
