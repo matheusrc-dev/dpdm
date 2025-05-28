@@ -3,5 +3,5 @@
 1. [Introdução a disciplina](./01-introducao-a-disciplina/README.md)
 2. [Gerenciamento de estado global](./02-gerenciamento-de-estado-global/README.md)
 3. [Boas práticas para criação de componentes reutilizáveis](./03-boas-praticas-para-criacao-de-componentes/README.MD)
-4. [Cefaly - Projeto da disciplina](./cefaly/README.md)
+4. [Cefaly - Projeto da disciplina](https://github.com/matheusrc-dev/cefally)
 5. [Criação de um Projeto Expo e Workflow no Git](./05-criacao-de-um-projeto-expo-e-workflow-no-git/README.md)
